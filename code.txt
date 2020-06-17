@@ -12,3 +12,5 @@ Hi
 git pull git chcekout branch
 git merge develeop
  conflkicts
+
+bylnkhgiuh
