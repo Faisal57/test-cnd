@@ -6,3 +6,6 @@ Breaking Bad
 Mango
 Apple
 Orange
+
+Walter white
+Arthur Shelby
