@@ -6,3 +6,9 @@ Breaking Bad
 Hello World
 
 India is my country
+Hi
+
+
+git pull git chcekout branch
+git merge develeop
+ conflkicts
